@@ -1,0 +1,11 @@
+9
+			Takamatsu	Tokushima	Ikeda	Kawanoe		Kochi	Muroto	Matsuyama	Uwajima	Nakamura		
+Takamatsu	0			76			57		73			0		0		0			0		0	
+Tokushima	76			0			74		0			0		128		0			0		0
+Ikeda		57			74			0		26			82		0		0			0		0
+Kawanoe		73			0			26		0			87		0		95			0		0
+Kochi		0			0			82		87			0		83		127			148		128
+Muroto		0			128			0		0			83		0		0			0		0
+Matsuyama	0			0			0		95			127		0		0			92		0
+Uwajima		0			0			0		0			148		0		92			0		87
+Nakamura	0			0			0		0			128		0		0			87		0
